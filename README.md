@@ -1,1 +1,3 @@
-# tech613-node-tictactoe
+# tech613-ttt-app-cicd-jenkins
+
+Create a CICD pipeline for deploying the app
