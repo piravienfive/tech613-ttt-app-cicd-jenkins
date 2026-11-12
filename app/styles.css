@@ -1,5 +1,5 @@
 :root {
-    --bg: #031106;
+	--bg: #031106;
     --panel: #06200c;
     --line: #1fff6a;
     --line-dim: #0f9b43;
@@ -14,7 +14,7 @@
 body {
 	margin: 0;
 	font-family: 'Courier New', Courier, monospace;
-	background: radial-gradient(circle at top, #0a2a11 0%, var(--bg) 45%, #010703 100%);
+	background: lightblue;
 	color: var(--text);
 	min-height: 100vh;
 }
