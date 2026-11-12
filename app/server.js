@@ -1110,7 +1110,7 @@ function createServer({ port = 3000, logger, metrics } = {}) {
 						<link rel="stylesheet" href="/styles.css" />
 					</head>
 					<body class="retro-shell">
-						<h1 class="retro-title">Tic Tac Toe</h1>
+						<h1 class="retro-title">Piravien's Tic Tac Toe</h1>
 						<div class="layout">
 							<div class="game-column">
 								<section class="panel">
